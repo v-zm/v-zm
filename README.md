@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @v-zm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vivek Yadav
+- 👀 I’m interested in #flutter
+- 🌱 I’m currently learning KMM
+- 💞️ I’m looking to collaborate on KMM and flutter
+- 📫 How to reach me vivek.yadav@zestmoney.in
 
 <!---
 v-zm/v-zm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
